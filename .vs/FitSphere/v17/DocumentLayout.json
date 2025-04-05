@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\FitSphere\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D19157A5-56AB-4266-8499-865D910865C5}|Services\\AuthService\\AuthService.API\\AuthService.API.csproj|e:\\fitsphere\\services\\authservice\\authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D19157A5-56AB-4266-8499-865D910865C5}|Services\\AuthService\\AuthService.API\\AuthService.API.csproj|solutionrelative:services\\authservice\\authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4C8850-EADB-447A-95BC-C1E81764CCD7}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|e:\\fitsphere\\services\\authservice\\authservice.application\\services\\concretes\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4C8850-EADB-447A-95BC-C1E81764CCD7}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\services\\concretes\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EE8381-B315-4BB7-B159-B4F00205F737}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|e:\\fitsphere\\services\\authservice\\authservice.domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EE8381-B315-4BB7-B159-B4F00205F737}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:services\\authservice\\authservice.domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtGenerator.cs",
+              "DocumentMoniker": "E:\\FitSphere\\Services\\AuthService\\AuthService.Application\\Services\\Concretes\\JwtGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Services\\Concretes\\JwtGenerator.cs",
+              "ToolTip": "E:\\FitSphere\\Services\\AuthService\\AuthService.Application\\Services\\Concretes\\JwtGenerator.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Services\\Concretes\\JwtGenerator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAADcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:01:24.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "E:\\FitSphere\\Services\\AuthService\\AuthService.Domain\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Domain\\Settings\\JwtSettings.cs",
+              "ToolTip": "E:\\FitSphere\\Services\\AuthService\\AuthService.Domain\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Domain\\Settings\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:01:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FitSphere\\Services\\AuthService\\AuthService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.API\\appsettings.json",
+              "ToolTip": "E:\\FitSphere\\Services\\AuthService\\AuthService.API\\appsettings.json",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T15:59:27.812Z",
+              "EditorCaption": ""
             }
           ]
         }
