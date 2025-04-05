@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KIbDvBqoAj1ZtPCv/zYDd3CS4PVLBsMTO15eyutcGFfD63h3xjq8gNtIDPkT0NiSUfKqdOY9ezBtGl4Basm8pQ==",
+  "dgSpecHash": "NVEelRTVLLYUFodons0jP6O07U1t9KESN6p9PXjyLk7Hif/qDhTt9KpAiZ6soglwG188d25AShIpNiYr8yt/1Q==",
   "success": true,
-  "projectFilePath": "E:\\FitSphere\\Shared\\GymERP.Shared.csproj",
+  "projectFilePath": "E:\\FitSphere\\Shared\\FitSphere.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

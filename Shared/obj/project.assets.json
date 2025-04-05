@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FitSphere\\Shared\\GymERP.Shared.csproj",
-      "projectName": "GymERP.Shared",
-      "projectPath": "E:\\FitSphere\\Shared\\GymERP.Shared.csproj",
+      "projectUniqueName": "E:\\FitSphere\\Shared\\FitSphere.Shared.csproj",
+      "projectName": "FitSphere.Shared",
+      "projectPath": "E:\\FitSphere\\Shared\\FitSphere.Shared.csproj",
       "packagesPath": "C:\\Users\\mahee\\.nuget\\packages\\",
       "outputPath": "E:\\FitSphere\\Shared\\obj\\",
       "projectStyle": "PackageReference",
